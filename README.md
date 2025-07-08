@@ -12,12 +12,12 @@ Este projeto é a segunda parte do trabalho de Estrutura de Dados que consiste e
 
 
 projeto:
--bdpaciente.c          # Implementação do TAD da lista encadeada
--bdpaciente.h          # Cabeçalho do TAD
--paciente.h            # Definição da struct Paciente
--main.c                # Menu e interação com o usuário
--bd_paciente.csv       # Banco de dados em formato CSV
--Makefile              # Compilação automática do projeto
+- bdpaciente.c          # Implementação do TAD da lista encadeada
+- bdpaciente.h          # Cabeçalho do TAD
+- paciente.h            # Definição da struct Paciente
+- main.c                # Menu e interação com o usuário
+- bd_paciente.csv       # Banco de dados em formato CSV
+- Makefile              # Compilação automática do projeto
 
 
 ---
