@@ -1,5 +1,5 @@
 # Trabalho de estrutura de dados- Parte 2
-**Heloísa Borghardt Hand**
+**Heloísa Borghardt Hand** \n
 **Isabeli Rocha de Rezende**
 
 ## Sistema de Gerenciamento de Pacientes – Estrutura de Dados em C
