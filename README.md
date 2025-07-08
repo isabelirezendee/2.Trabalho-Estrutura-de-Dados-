@@ -1,6 +1,3 @@
-// ===============================
-// README.md
-// ===============================
 # Trabalho de estrutura de dados- Parte 2
 **Heloísa Borghardt Hand**
 **Isabeli Rocha de Rezende**
